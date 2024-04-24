@@ -1,0 +1,15 @@
+{
+  "best_parameters": {
+    "bagging_fraction": 0.3951502360018144,
+    "colsample_bytree": 1.5266588657937943,
+    "feature_fraction": 0.7272719958564209,
+    "learning_rate": 0.09896223064175061,
+    "max_depth": 8,
+    "min_child_samples": 8,
+    "n_estimators": 824,
+    "reg_alpha": 0.038867728968948204,
+    "reg_lambda": 0.02713490317738959,
+    "subsample": 1.4287375091519294
+  },
+  "best_score": 0.9870514744743801
+}
